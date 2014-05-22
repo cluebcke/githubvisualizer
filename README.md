@@ -4,6 +4,8 @@ githubvisualizer
 A little toy that makes a pretty browser display of repo descriptions. Terrible coding practices, abandoned experiments,
 hardcoded values, and tremendous fun to hack out over a couple of days.
 
+![Look at all these real projects. Not like this one](https://raw.github.com/cluebcke/githubvisualizer/master/public/img/lookatalltheserealprojects.png)
+
 # Installation
 
 Are you sure you want to do this? This isn't a real tool or anything. Plus if you up the poll rate you might make
