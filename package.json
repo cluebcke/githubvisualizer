@@ -1,0 +1,9 @@
+{
+  "name": "github-visualizer",
+  "description": "tbd",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "express": "^4.2.0"
+  }
+}
